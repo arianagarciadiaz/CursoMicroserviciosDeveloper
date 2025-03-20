@@ -1,0 +1,3 @@
+spring.application.name=micro-eureka
+server.port=9999
+

@@ -1,0 +1,6 @@
+package com.proa.app.services;
+
+public interface IService {
+	boolean insert(long idClient, double total);
+
+}

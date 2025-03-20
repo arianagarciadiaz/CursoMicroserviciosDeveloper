@@ -1,0 +1,13 @@
+package com.proa.app.services;
+
+import java.util.List;
+
+import com.proa.app.entities.Client;
+
+public interface IService {
+	boolean insert(Client c);
+	List<Client> selectAll();
+	boolean update(Client c) throw ClientNotFoundException;
+	Client findById(long id) throw ClientNotFoundException;
+	boolean delete(long id) throw ClientNotFoundException;
+}

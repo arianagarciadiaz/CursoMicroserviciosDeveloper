@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.proa.app.exceptions.OrdenNotFoundException.java&apos; to &apos;OrderNotFoundException.java&apos;&#x0D;&#x0A;- Original project: &apos;MicroserviceOrder&apos;&#x0D;&#x0A;- Original element: &apos;com.proa.app.exceptions.OrdenNotFoundException.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.proa.app.exceptions.OrderNotFoundException.java&apos;" description="Rename compilation unit &apos;OrdenNotFoundException.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.proa.app.exceptions{OrdenNotFoundException.java" name="OrderNotFoundException.java" references="false" stamp="1741913873706" version="1.0"/>
+</session>
